@@ -1,4 +1,4 @@
-package test;
+package bad;
 
 public class BadEmployee {
 
