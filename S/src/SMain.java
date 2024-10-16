@@ -1,4 +1,9 @@
-package test;
+import good.GoodEmployee;
+import bad.BadEmployee;
+import good.EmployeeAdditionalPaymentService;
+import good.EmployeePaymentService;
+import good.EmployeeRepository;
+import good.EmployeeTimetrackingService;
 
 public class SMain {
 

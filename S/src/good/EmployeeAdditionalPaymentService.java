@@ -1,4 +1,4 @@
-package test;
+package good;
 
 public class EmployeeAdditionalPaymentService {
     public EmployeeAdditionalPaymentService(){}
